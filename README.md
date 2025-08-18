@@ -5,53 +5,85 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hrushikeshuppalapati" target="_blank">LinkedIn</a> •
-  <a href="mailto:hrushikeshu.14@gmail.com">Email</a> •
-  <a href="https://hrushikeshuppalapati.github.io/Hrushikesh-Portfolio/#" target="_blank">Portfolio</a>
+  <a href="https://www.linkedin.com/in/hrushikeshuppalapati" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:hrushikeshu.14@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://hrushikeshuppalapati.github.io/Hrushikesh-Portfolio/#" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## What I do
-- Machine Learning & Forecasting: time series, tabular ML, evaluation (MAE/RMSE/R²)
-- AWS & Infra: Lambda, API Gateway, DynamoDB, S3, EventBridge, CloudWatch; Terraform, GitHub Actions
-- Data Analytics: SQL, pandas, visualization (Tableau/Plotly)
-- Dashboards & UX: interactive plots with clear storytelling
+## 🔧 What I Do
+- 🤖 **Machine Learning & Forecasting:** time series, tabular ML, evaluation (MAE/RMSE/R²)  
+- ☁️ **AWS & Infra:** Lambda, API Gateway, DynamoDB, S3, EventBridge, CloudWatch; Terraform, GitHub Actions  
+- 📊 **Data Analytics:** SQL, pandas, visualization (Tableau/Plotly)  
+- 📈 **Dashboards & UX:** interactive plots with clear storytelling  
 
-## Tech I use
-`Python` · `Pandas` · `NumPy` · `scikit-learn` · `TensorFlow/PyTorch`  
-`AWS (Lambda, API GW, S3, DynamoDB, EventBridge, CloudWatch)`  
-`Terraform` · `Docker` · `GitHub Actions` · `Redis`  
-`SQL (Postgres/MySQL)` · `Tableau` · `Plotly`
+---
 
-## Featured projects
-- **US Temperature Forecasting — ML + dashboards**  
+## 🛠️ Tech I Use
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- **🌡️ US Temperature Forecasting — ML + dashboards**  
   City-level forecasts with interactive visuals; improved RMSE vs baselines.  
   [Repo →](https://github.com/hrushikeshuppalapati/Temperature-Forecasting-Using-TIme-Series-and-ML-Techniques)
 
-- **Facial Analytics Realtime CNN**  
+- **👁️ Facial Analytics Realtime CNN**  
   Live face attributes; ~96% gender and ~93% emotion accuracy (TensorFlow + MediaPipe).  
   [Repo →](https://github.com/hrushikeshuppalapati/Facial-Feature-Detection-Using-CNN)
 
-- **EV Adoption Analysis (US Regions)**  
+- **🚗 EV Adoption Analysis (US Regions)**  
   Clean notebook storytelling on adoption drivers and charging gaps.  
   [Repo →](https://github.com/hrushikeshuppalapati/Analyzing-Electric-Vehicle-EV-Adoption-Across-U.S.-Regions)
 
-- **Energy · Carbon · Deforestation — Interactive Viz**  
+- **🌍 Energy · Carbon · Deforestation — Interactive Viz**  
   Linked, consistent charts with clear color and type hierarchy.  
   [Repo →](https://github.com/hrushikeshuppalapati/Data-Visualization-Project-Global-Energy-Trends-and-Impact)
 
-- **Personal Portfolio (itsdileep.com)**  
+- **💼 Personal Portfolio (itsdileep.com)**  
   Modern, responsive site; projects, resume, Redis visitor counter.  
   [Repo →](https://github.com/hrushikeshuppalapati/Hrushikesh-Portfolio)
 
-## GitHub stats
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrushikeshuppalapati&show_icons=true" height="145" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikeshuppalapati&layout=compact" height="145" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrushikeshuppalapati&show_icons=true&theme=dark" height="145" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikeshuppalapati&layout=compact&theme=dark" height="145" />
 </p>
 
-## Connect
-- [LinkedIn](https://www.linkedin.com/in/hrushikeshuppalapati)
-- [Portfolio](https://hrushikeshuppalapati.github.io/Hrushikesh-Portfolio/#)
-- [Email](mailto:hrushikeshu.14@gmail.com)
+---
+
+## 🤝 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/hrushikeshuppalapati" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://hrushikeshuppalapati.github.io/Hrushikesh-Portfolio/#" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:hrushikeshu.14@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
