@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Hrushikesh Uppalapati 👋</h1>
+<h1 align="center">Hi, I'm Hrushikesh Uppalapati</h1>
 <p align="center">
-  <b>Data Scientist • Python </b><br/>
-  I build ML systems, real-time analytics, and dashboards end-to-end.
+  <b>Data Scientist | Cloud & ML Engineer | AWS Certified Data Engineer</b><br/>
+  I specialize in building forecasting models, cloud-based data pipelines, and interactive dashboards that turn raw data into business impact.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hrushikesh-uppalapati/" target="_blank">
+  <a href="https://www.linkedin.com/in/hrushikeshuppalapati" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:hrushikeshu.14@gmail.com">
@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
 
 ---
 
