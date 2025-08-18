@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hrushikeshuppalapati" target="_blank">LinkedIn</a> •
-  <a href="mailto:hrushikeshuppalapati@gmail.com">Email</a> •
-  <a href="https://itsdileep.com" target="_blank">Portfolio</a>
+  <a href="mailto:hrushikeshu.14@gmail.com">Email</a> •
+  <a href="https://hrushikeshuppalapati.github.io/Hrushikesh-Portfolio/#" target="_blank">Portfolio</a>
 </p>
 
 ---
@@ -53,5 +53,5 @@
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/hrushikeshuppalapati)
-- [Portfolio](https://itsdileep.com)
-- [Email](mailto:hrushikeshuppalapati@gmail.com)
+- [Portfolio](https://hrushikeshuppalapati.github.io/Hrushikesh-Portfolio/#)
+- [Email](mailto:hrushikeshu.14@gmail.com)
