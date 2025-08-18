@@ -61,7 +61,7 @@
   Linked, consistent charts with clear color and type hierarchy.  
   [Repo →](https://github.com/hrushikeshuppalapati/Data-Visualization-Project-Global-Energy-Trends-and-Impact)
 
-- **💼 Personal Portfolio (itsdileep.com)**  
+- **💼 Personal Portfolio**  
   Modern, responsive site; projects, resume, Redis visitor counter.  
   [Repo →](https://github.com/hrushikeshuppalapati/Hrushikesh-Portfolio)
 
