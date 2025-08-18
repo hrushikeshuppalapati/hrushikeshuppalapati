@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hrushikesh Uppalapati 👋</h1>
 <p align="center">
-  <b>Data Scientist • Python • AWS Serverless</b><br/>
-  I build ML systems, real-time analytics, and dashboards end to end.
+  <b>Data Scientist • Python </b><br/>
+  I build ML systems, real-time analytics, and dashboards end-to-end.
 </p>
 
 <p align="center">
