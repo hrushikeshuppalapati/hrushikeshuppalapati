@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hrushikeshuppalapati" target="_blank">
+  <a href="https://www.linkedin.com/in/hrushikesh-uppalapati/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:hrushikeshu.14@gmail.com">
@@ -77,7 +77,7 @@
 
 ## 🤝 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/hrushikeshuppalapati" target="_blank">
+  <a href="https://www.linkedin.com/in/hrushikesh-uppalapati/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://hrushikeshuppalapati.github.io/Hrushikesh-Portfolio/#" target="_blank">
