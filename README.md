@@ -21,7 +21,7 @@
 
 ## 🔧 What I Do
 - 🤖 **Machine Learning & Forecasting:** time series, tabular ML, evaluation (MAE/RMSE/R²)  
-- ☁️ **AWS & Infra:** Lambda, API Gateway, DynamoDB, S3, EventBridge, CloudWatch; Terraform, GitHub Actions  
+- ☁️ **AWS & Infra:** Lambda, API Gateway, DynamoDB, S3, GitHub Actions  
 - 📊 **Data Analytics:** SQL, pandas, visualization (Tableau/Plotly)  
 - 📈 **Dashboards & UX:** interactive plots with clear storytelling  
 
