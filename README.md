@@ -28,7 +28,6 @@
 ---
 
 ## 🛠️ Tech I Use
-## 🛠️ Tech I Use
 <p>
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
