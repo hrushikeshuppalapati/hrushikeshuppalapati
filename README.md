@@ -86,7 +86,7 @@
   [Repo →](https://github.com/hrushikeshuppalapati/Data-Visualization-Project-Global-Energy-Trends-and-Impact)
 
 - **💼 Personal Portfolio**  
-  Modern, responsive site; projects, resume, Redis visitor counter.  
+  Modern, responsive site; projects, resume 
   [Repo →](https://github.com/hrushikeshuppalapati/Hrushikesh-Portfolio)
 
 ---
