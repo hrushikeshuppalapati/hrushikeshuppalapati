@@ -20,8 +20,6 @@
 ---
 
 ## 🔧 What I Do
-This version is slightly more personal and framed as a direct value statement.
-
 🤖 I build predictive models... that forecast future outcomes and classify complex data, using everything from time-series analysis to XGBoost.
 
 ☁️ I deploy solutions to the cloud... creating robust, automated data pipelines with tools like AWS SageMaker, Airflow, and GitHub Actions for real-time impact.
