@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Hrushikesh Uppalapati</h1>
 <p align="center">
-  <b>Data Scientist | Cloud & ML Engineer | AWS Certified Data Engineer</b><br/>
+  <b>Data Scientist | Data Analyst | Data Engineer & ML Engineer | AWS Certified Data Engineer</b><br/>
   I specialize in building forecasting models, cloud-based data pipelines, and interactive dashboards that turn raw data into business impact.
 </p>
 
@@ -20,10 +20,15 @@
 ---
 
 ## 🔧 What I Do
-- 🤖 **Machine Learning & Forecasting:** time series, tabular ML, evaluation (MAE/RMSE/R²)  
-- ☁️ **AWS & Infra:** Lambda, API Gateway, DynamoDB, S3, GitHub Actions  
-- 📊 **Data Analytics:** SQL, pandas, visualization (Tableau/Plotly)  
-- 📈 **Dashboards & UX:** interactive plots with clear storytelling  
+This version is slightly more personal and framed as a direct value statement.
+
+🤖 I build predictive models... that forecast future outcomes and classify complex data, using everything from time-series analysis to XGBoost.
+
+☁️ I deploy solutions to the cloud... creating robust, automated data pipelines with tools like AWS SageMaker, Airflow, and GitHub Actions for real-time impact.
+
+📊 I uncover hidden insights... by querying massive datasets with SQL, cleaning and analyzing them with Python (Pandas), and applying rigorous statistical methods.
+
+📈 I tell compelling data stories... by designing intuitive, interactive dashboards in Tableau and Power BI that empower teams to make smarter decisions.
 
 ---
 
