@@ -78,7 +78,7 @@
 
 - **Data Brew: Brewing Success with Starbucks Customer Data**\
  Determine optimal promotion channels, tailor offers based on customer attributes and actions, and elevate the overall efficiency and effectiveness of Starbucks' marketing
-  efforts.
+  efforts.\
   [Repo →](https://github.com/hrushikeshuppalapati/DATS-6101-data-brew)
   
 - **👁️ Facial Analytics Realtime CNN**  
