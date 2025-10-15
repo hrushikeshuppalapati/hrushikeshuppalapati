@@ -76,9 +76,8 @@
   City-level forecasts with interactive visuals; improved RMSE vs baselines.  
   [Repo →](https://github.com/hrushikeshuppalapati/Temperature-Forecasting-Using-TIme-Series-and-ML-Techniques)
 
-- **Data Brew: Brewing Success with Starbucks Customer Data**
-  
-  Determine optimal promotion channels, tailor offers based on customer attributes and actions, and elevate the overall efficiency and effectiveness of Starbucks' marketing
+- **Data Brew: Brewing Success with Starbucks Customer Data**\
+- Determine optimal promotion channels, tailor offers based on customer attributes and actions, and elevate the overall efficiency and effectiveness of Starbucks' marketing
   efforts.
   [Repo →](https://github.com/hrushikeshuppalapati/DATS-6101-data-brew)
   
